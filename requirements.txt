@@ -1,3 +1,1 @@
 reflex==0.4.5
-GLIBC==2.27
-GLIBC==2.28
